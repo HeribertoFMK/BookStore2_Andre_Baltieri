@@ -1,0 +1,5 @@
+C:\Users\herib\source\repos\BookStore2\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\Users\herib\source\repos\BookStore2\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\Users\herib\source\repos\BookStore2\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\herib\source\repos\BookStore2\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\Users\herib\source\repos\BookStore2\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
