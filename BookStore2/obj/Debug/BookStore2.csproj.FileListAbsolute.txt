@@ -1,3 +1,7 @@
+C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.AssemblyReference.cache
+C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.Migrations.Version1.resources
+C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.GenerateResource.cache
+C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.CoreCompileInputs.cache
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore2.dll.config
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore2.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore2.pdb
@@ -28,6 +32,7 @@ C:\Users\herib\source\repos\BookStore2\BookStore2\bin\roslyn\vbc.rsp
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\roslyn\VBCSCompiler.exe
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\Antlr3.Runtime.dll
+C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore.Domain.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\EntityFramework.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\EntityFramework.SqlServer.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
@@ -41,6 +46,7 @@ C:\Users\herib\source\repos\BookStore2\BookStore2\bin\System.Web.WebPages.Deploy
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\System.Web.WebPages.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\System.Web.WebPages.Razor.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\WebGrease.dll
+C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore.Domain.pdb
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\EntityFramework.xml
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\EntityFramework.SqlServer.xml
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\System.Web.Helpers.xml
@@ -53,12 +59,6 @@ C:\Users\herib\source\repos\BookStore2\BookStore2\bin\System.Web.WebPages.Razor.
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\Newtonsoft.Json.xml
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\Antlr3.Runtime.pdb
 C:\Users\herib\source\repos\BookStore2\BookStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.CoreCompileInputs.cache
 C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.CopyComplete
 C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.dll
 C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.pdb
-C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.AssemblyReference.cache
-C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore.Domain.dll
-C:\Users\herib\source\repos\BookStore2\BookStore2\bin\BookStore.Domain.pdb
-C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.Migrations.version1.resources
-C:\Users\herib\source\repos\BookStore2\BookStore2\obj\Debug\BookStore2.csproj.GenerateResource.cache
