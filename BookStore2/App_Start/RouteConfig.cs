@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using BookStore2.RoutesConstraints;
 using System.Web.Mvc;
+using System.Web.Mvc.Routing;
 using System.Web.Routing;
 
 namespace BookStore2
@@ -12,8 +10,9 @@ namespace BookStore2
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
-            routes.MapMvcAttributeRoutes();
-
+            var constrainResolver = new DefaultInlineConstraintResolver();
+            constrainResolver.ConstraintMap.Add("values", typeof(ValuesConstraint));
+            routes.MapMvcAttributeRoutes(constrainResolver);
 
             routes.MapRoute(
                 name: "Default",

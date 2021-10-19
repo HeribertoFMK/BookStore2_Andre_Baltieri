@@ -15,8 +15,7 @@ namespace BookStore2.Mapping
             ToTable("Autor");
             HasKey(x => x.Id);
             Property(x => x.Nome).HasMaxLength(60).IsRequired();
-            HasMany(x => x.Livros)
-                .WithRequired(x => x.Autor);
+            HasMany(x => x.Livros).WithMany(x => x.Autores).Map(x => ToTable("LivroAutor"));
 
         }
     }
